@@ -1,0 +1,11 @@
+{
+  "name": "ajCelis.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ajCelis/ajCelis.github.io.git",
+  "author": "ajCelis <celis28shiny@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bulma": "^0.9.1"
+  }
+}
